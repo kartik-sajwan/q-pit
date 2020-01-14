@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
   "version": "1.0",
-  "name": "infy-theme",
+  "name": "dark-amor",
   "theme": {
     "images": {
       "additional_backgrounds": [
-        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+        "images/bg-018-0ca3dfc7bb661ec53999d358812ce0ab.svg"
       ]
     },
     "properties": {
@@ -17,16 +17,30 @@
       ]
     },
     "colors": {
+      "bookmark": "rgb(255, 184, 108)",
+      "icons_attention": "rgb(98, 114, 164)",
+      "sidebar": "rgb(54, 59, 95)",
+      "sidebar_text": "rgb(255, 184, 108)",
+      "sidebar_highlight": "rgb(68, 71, 90)",
+      "sidebar_highlight_text": "rgb(255, 184, 108)",
+      "sidebar_border": "rgb(255, 121, 198)",
       "toolbar": "rgb(40, 42, 54)",
-      "toolbar_text": "rgb(139, 233, 253)",
-      "frame": "rgb(40, 42, 54)",
-      "tab_background_text": "rgb(255, 121, 198)",
+      "toolbar_text": "rgb(255, 184, 108)",
+      "frame": "rgb(54, 59, 95)",
+      "ntp_background": "rgb(54, 59, 95)",
+      "ntp_text": "rgb(255, 121, 198",
+      "tab_background_text": "rgb(255, 184, 108)",
+      "tab_loading": "rgb(139, 233, 253)",
+      "toolbar_bottom_seperator": "rgb(255, 121, 198)",
       "toolbar_field": "rgb(68, 71, 90)",
       "toolbar_field_text": "rgb(80, 250, 123)",
+      "toolbar_field_border": "rgb(255, 121, 198)",
+      "toolbar_vertical_separator": "rgb(255, 121, 198)",
       "tab_line": "rgb(255, 85, 85)",
-      "popup": "rgb(0, 87, 122)",
+      "popup": "rgb(54, 59, 95)",
       "popup_text": "rgb(255, 184, 108)",
-      "tab_loading": "rgb(255, 85, 85)"
+      "popup_highlight": "rgb(68, 71, 90)",
+      "popup_border": "rgb(255, 121, 198)"
     }
   }
 }
