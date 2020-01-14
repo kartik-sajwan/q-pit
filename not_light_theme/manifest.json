@@ -1,11 +1,10 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "2.0",
   "name": "dark-amor",
   "theme": {
     "images": {
       "additional_backgrounds": [
-        "images/bg-018-0ca3dfc7bb661ec53999d358812ce0ab.svg"
       ]
     },
     "properties": {
